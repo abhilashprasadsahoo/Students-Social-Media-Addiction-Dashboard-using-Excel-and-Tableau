@@ -10,3 +10,9 @@ Analyzes engagement levels and content interaction
 Highlights risk patterns of excessive usage
 Supports digital detox and healthy usage recommendations
 
+
+DASHBOARD USING TABLEAU
+![dashboard using tableau](https://github.com/abhilashprasadsahoo/Students-Social-Media-Addiction-Dashboard-using-Excel-and-Tableau/blob/main/dashboard%20using%20tableau.jpg)
+
+DASHBOARD USING EXCEL
+![dashboard using excel](https://github.com/abhilashprasadsahoo/Students-Social-Media-Addiction-Dashboard-using-Excel-and-Tableau/blob/main/Dashboard%20using%20excel.jpg)
