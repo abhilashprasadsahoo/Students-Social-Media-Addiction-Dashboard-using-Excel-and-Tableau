@@ -13,8 +13,8 @@ Supports digital detox and healthy usage recommendations
 
 
   
-                                        DASHBOARD USING TABLEAU
+                                            DASHBOARD USING TABLEAU
 ![dashboard using tableau](https://github.com/abhilashprasadsahoo/Students-Social-Media-Addiction-Dashboard-using-Excel-and-Tableau/blob/main/dashboard%20using%20tableau.jpg)
 
-                                          DASHBOARD USING EXCEL
+                                              DASHBOARD USING EXCEL
 ![dashboard using excel](https://github.com/abhilashprasadsahoo/Students-Social-Media-Addiction-Dashboard-using-Excel-and-Tableau/blob/main/Dashboard%20using%20excel.jpg)
